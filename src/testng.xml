@@ -4,7 +4,7 @@
 	<test thread-count="5" name="ExcelReadBasic">
 		<classes>
 		
-			<class name="com.login.excelReadbasic.ExcelReadBasic" />
+			<class name="com.login.excelReadbasic5.ExcelReadBasic" />
 
 		</classes>
 	</test> <!-- Test -->

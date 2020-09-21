@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ExcelReadBasic">
+      <class name="com.login.excelReadbasic5.ExcelReadBasic">
         <methods>
           <include name="Login"/>
         </methods>
-      </class> <!-- ExcelReadBasic -->
+      </class> <!-- com.login.excelReadbasic5.ExcelReadBasic -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

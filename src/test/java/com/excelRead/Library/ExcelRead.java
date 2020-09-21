@@ -25,6 +25,10 @@ public class ExcelRead {
 		fis =new FileInputStream(src);
 
 		wb =new XSSFWorkbook(fis);
+		
+		
+		
+		
 
 
 	}
@@ -34,6 +38,9 @@ public class ExcelRead {
 		sheet1 = wb.getSheetAt(0);
 		String data=sheet1.getRow(row).getCell(col).getStringCellValue();
 		return data;
+		
+		
+		
 	}
 
 

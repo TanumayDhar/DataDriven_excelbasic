@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Data Driven Excel Basics]">
   <test thread-count="5" name="ExcelReadBasic(failed)">
     <classes>
-      <class name="com.login.excelReadbasic.ExcelReadBasic">
+      <class name="com.login.excelReadbasic5.ExcelReadBasic">
         <methods>
           <include name="Login"/>
         </methods>
-      </class> <!-- com.login.excelReadbasic.ExcelReadBasic -->
+      </class> <!-- com.login.excelReadbasic5.ExcelReadBasic -->
     </classes>
   </test> <!-- ExcelReadBasic(failed) -->
 </suite> <!-- Failed suite [Data Driven Excel Basics] -->
