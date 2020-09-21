@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Data Driven Excel Basics]">
+  <test thread-count="5" name="ExcelReadBasic(failed)">
+    <classes>
+      <class name="com.login.excelReadbasic.ExcelReadBasic">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- com.login.excelReadbasic.ExcelReadBasic -->
+    </classes>
+  </test> <!-- ExcelReadBasic(failed) -->
+</suite> <!-- Failed suite [Data Driven Excel Basics] -->
